@@ -1,3 +1,3 @@
 # ye-trump-GPT
 
-Modified from https://www.youtube.com/watch?v=a7TOameRqoY
+Modified version of https://www.youtube.com/watch?v=a7TOameRqoY
